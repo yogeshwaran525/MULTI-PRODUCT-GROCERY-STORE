@@ -1,1 +1,10 @@
 # MULTI-PRODUCT-GROCERY-STORE
+![1](https://user-images.githubusercontent.com/118171405/224492893-bd866f46-5950-4250-b6f0-b490f88b9d05.png)
+![2](https://user-images.githubusercontent.com/118171405/224492913-469c19bf-7adf-440f-9875-ae6a09f19638.png)
+![4](https://user-images.githubusercontent.com/118171405/224492920-d0426f85-13ab-4e89-9ece-9210a7d9d805.png)
+![5](https://user-images.githubusercontent.com/118171405/224492928-c9bc5e88-b274-4f30-9300-64cf238476fa.png)
+![6](https://user-images.githubusercontent.com/118171405/224492932-2216dee5-031b-41b3-bb06-b9d70337e187.png)
+![7](https://user-images.githubusercontent.com/118171405/224492938-3d129018-b557-4c01-b071-31dc2a880369.png)
+![8](https://user-images.githubusercontent.com/118171405/224493127-cd5535e4-0f49-46d8-83d8-1ec2d7f781e5.png)
+![9](https://user-images.githubusercontent.com/118171405/224493130-7889a214-3d6e-4d50-8425-738068bcdc5f.png)
+![10](https://user-images.githubusercontent.com/118171405/224493135-fe0f3ef3-fb74-4725-8c0b-6ff6bbf236d5.png)
