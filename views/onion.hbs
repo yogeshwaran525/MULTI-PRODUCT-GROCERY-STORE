@@ -1,0 +1,46 @@
+{{> header}}
+<!--Product section starts-->
+
+    <section class="products" id="products">
+    <table class="table table-bordered  table-success table-striped border border-info table-striped-columns text-center">
+  
+            <thead class="thead-dark">
+                <tr>
+                <th scope="col">ID.NO</th>
+                <th scope="col">Name</th>
+                <th scope="col">Email</th>
+                </tr>
+            </thead>
+            
+            <tbody>  
+                {{#each rows}} 
+                <tr>
+                    <td scope="row"></td>
+                    <td>{{onion}}</td>
+                    <td>{{onion}}</td>
+                    <td>{{onion}}</td>      
+                    <td><a href="/{{this.id}}"><button class="btn btn-primary"><i class="bi bi-person-x"></i>Delete</button></a></td>  
+                </tr>  
+                {{/each}}
+        </tbody>
+    </table>
+        
+
+        {{!-- <div class="swiper product-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide box">
+                    <img src="image/product-1.png" alt="">
+                    <h3>Fresh oranges</h3>
+                    <h1>RS :<input type="number" name="orange" class="product" value="60" disabled></h1>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div> 
+                </div>
+            </div>
+        </div>     --}}
+    </section>
+    {{> footer}}

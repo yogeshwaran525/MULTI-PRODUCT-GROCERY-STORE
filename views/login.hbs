@@ -1,0 +1,14 @@
+  {{> header}}
+    <form action="/auth/login" class="login-form" method="post">
+        <h3>LoginNow</h3>
+        {{#if msg}}
+        <p class="{{msg_type}}" id="good">{{msg}}</p>
+        {{/if}}
+        <input type="email" placeholder="Enter Your Emaild" class="box" name="email">
+        <input type="password" placeholder="Enter Your Password" class="box" name="password">
+    {{!-- <p>Forget Your Password<a href="/forgotpwd">Clickhere</a></p> --}}
+    <p>Don't have an account<a href="/createaccount">Createnow</a></p>
+
+        <input type="submit" value="Login" class="btn">
+    </form>
+    {{> footer}}
