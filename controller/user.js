@@ -7,8 +7,8 @@ const { promisify } = require("util");
 let db = mysql.createConnection({
   host:'localhost',
   user: 'root',
-  password: 'root123',
-  database: 'login_crud'
+  password: '****************MySQL Password***********',
+  database: '****************MySQL DataBase Name *******'
 });
 
 db.connect((error)=>{
